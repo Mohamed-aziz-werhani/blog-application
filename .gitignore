@@ -1,4 +1,4 @@
 node_modules/
 
-#env
-.env.MONGO_URL
+
+.env
