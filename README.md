@@ -1,1 +1,1 @@
-# BLOG_application1
+# BLOG_application
